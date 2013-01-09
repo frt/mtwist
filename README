@@ -14,3 +14,19 @@ For more information, see the Web page for the package, at:
 or
 
 	http://www.lasr.cs.ucla.edu/geoff/mtwist.html
+
+
+HOWTO INSTALL THIS LIB FROM THE SOURCES 
+
+ * Generate the './configure' script:
+
+	$ aclocal
+	$ automake --add-missing
+	$ autoconf
+
+ * Configure and install:
+
+	$ ./configure
+	$ make
+	# make install
+
