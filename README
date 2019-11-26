@@ -21,8 +21,8 @@ HOWTO INSTALL THIS LIB FROM THE SOURCES
  * Generate the './configure' script:
 
 	$ aclocal
-	$ automake --add-missing
 	$ autoconf
+	$ automake --add-missing
 
  * Configure and install:
 
