@@ -10,3 +10,5 @@ configure
 install-sh
 missing
 *.[oa]
+ar-lib
+compile
