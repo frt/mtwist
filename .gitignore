@@ -12,3 +12,10 @@ missing
 *.[oa]
 ar-lib
 compile
+.libs/
+config.guess
+config.sub
+libtool
+ltmain.sh
+m4/
+*.l[oa]
